@@ -1,0 +1,14 @@
+E:\Vs工作区\C#\学生考勤\bin\Debug\学生考勤.exe.config
+E:\Vs工作区\C#\学生考勤\bin\Debug\学生考勤.exe
+E:\Vs工作区\C#\学生考勤\bin\Debug\学生考勤.pdb
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.Form1.resources
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.Properties.Resources.resources
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.csproj.GenerateResource.cache
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.csproj.CoreCompileInputs.cache
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.exe
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.pdb
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.注册.resources
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.Form2.resources
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.csprojAssemblyReference.cache
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.本次考勤信息.resources
+E:\Vs工作区\C#\学生考勤\obj\Debug\学生考勤.Form3.resources

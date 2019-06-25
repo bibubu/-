@@ -1,0 +1,6 @@
+E:\Vs工作区\C#\webserve\bin\Debug\webserve.exe.config
+E:\Vs工作区\C#\webserve\bin\Debug\webserve.exe
+E:\Vs工作区\C#\webserve\bin\Debug\webserve.pdb
+E:\Vs工作区\C#\webserve\obj\Debug\webserve.csproj.CoreCompileInputs.cache
+E:\Vs工作区\C#\webserve\obj\Debug\webserve.exe
+E:\Vs工作区\C#\webserve\obj\Debug\webserve.pdb
